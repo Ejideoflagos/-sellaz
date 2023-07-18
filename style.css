@@ -1,0 +1,32 @@
+header{
+    background-color: rgb(69, 69, 156);
+    height: 30rem;
+    width: 60rem;
+    margin-left: 10rem;
+    border-radius: 15px;
+}
+nav{
+    margin-top: 6%;
+    font-size: small;
+    font-family: sans-serif;
+
+.mockup1{
+    height: 200px;
+    width: 200px;
+    margin-top: 2rem;
+    margin-bottom: 20%;
+    margin-left: 30rem;
+}
+.left-text{
+    color:white ;
+    align-items: center;
+}
+.logo{
+    background-color: white;
+    height: 30rem;
+    width: 60rem;
+}
+.img2{
+    height:20px;
+}
+
